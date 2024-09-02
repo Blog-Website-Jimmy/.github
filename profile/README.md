@@ -16,3 +16,10 @@
 <h3>Loki for logs</h3>
 <br>
 <img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/grafana-loki.png" alt="grafana-loki">
+<br>
+<h3>Prometheus for metrics</h3>
+<br>
+<img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/grafana-prometheus.png" alt="grafana-promethus">
+<br>
+<br>
+<img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/prometheus.png" alt="promethus">
