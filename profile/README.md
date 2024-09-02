@@ -14,6 +14,7 @@
 <img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/Blog-System-Design2.png" alt="system-design-of-blog">
 <br>
 <h3>Loki for logs</h3>
+<h3><a href="http://localhost:3000">http://localhost:3000</a></h3>
 <br>
 <img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/grafana-loki.png" alt="grafana-loki">
 <br>
@@ -21,5 +22,6 @@
 <br>
 <img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/grafana-prometheus.png" alt="grafana-promethus">
 <br>
+<h3><a href="http://localhost:9090">http://localhost:9090</a></h3>
 <br>
 <img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/prometheus.png" alt="promethus">
