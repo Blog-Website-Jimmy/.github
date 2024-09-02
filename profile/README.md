@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Welcome to my Blog Repository 🙋‍♀️
 
 <!--
 
@@ -11,3 +12,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/Blog-System-Design2.png" alt="system-design-of-blog">
+<br>
+<h3>Loki for logs</h3>
+<br>
+<img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/grafana-loki.png" alt="grafana-loki">
