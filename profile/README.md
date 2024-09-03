@@ -11,7 +11,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/Blog-System-Design3.png" alt="system-design-of-blog">
+<img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/Blog-System-Design4.png" alt="system-design-of-blog">
 <br>
 <h3>Loki for logs</h3>
 <h3><a href="http://localhost:3000">http://localhost:3000</a></h3>
