@@ -25,3 +25,7 @@
 <h3><a href="http://localhost:9090">http://localhost:9090</a></h3>
 <br>
 <img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/prometheus.png" alt="promethus">
+<br>
+<h3><a href="https://blog.jemsit.net" target="_blank">Production demo</a></h3>
+<br>
+<img src="https://github.com/Blog-Website-Jimmy/.github/blob/main/home-page.png" alt="promethus">
